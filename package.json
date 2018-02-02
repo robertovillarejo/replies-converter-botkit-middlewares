@@ -1,0 +1,25 @@
+{
+  "name": "replies-converter-botkit-middlewares",
+  "version": "1.0.0",
+  "description": "A set of Botkit middlewares to convert dialogflow replies to messaging platforms",
+  "main": "lib/Middlewares.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertovillarejo/replies-converter-botkit-middlewares.git"
+  },
+  "keywords": [
+    "botkit"
+  ],
+  "author": "Roberto Villarejo Martínez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertovillarejo/replies-converter-botkit-middlewares/issues"
+  },
+  "homepage": "https://github.com/robertovillarejo/replies-converter-botkit-middlewares#readme",
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
